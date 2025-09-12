@@ -83,5 +83,5 @@ Dominos needs an automated way to forecast sales and calculate ingredient requir
 
 ### 1. Clone Repository  
 ```bash
-git clone https://github.com/yourusername/Dominos-Purchase-Order-System.git
+git clone https://github.com/MugilCodes/Dominos-Purchase-Order-System.git
 cd Dominos-Purchase-Order-System
